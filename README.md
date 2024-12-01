@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan David Wilches</h1>
-<h3 align="center">A passionate software developer from Colombia specializing in the design, development, and implementation of efficient and scalable solutions. Focused on building robust applications that meet high-quality standards and ensure user satisfaction. Actively seeking challenges and opportunities for professional growth, with a particular interest in specializing in backend development and cybersecurity.</h3>
+<h1 align="left">Hi 👋, I'm Juan David Wilches</h1>
+<h3 align="left">A passionate software developer from Colombia specializing in the design, development, and implementation of efficient and scalable solutions. Focused on building robust applications that meet high-quality standards and ensure user satisfaction. Actively seeking challenges and opportunities for professional growth, with a particular interest in specializing in backend development and cybersecurity.</h3>
 
 - 🔭 I’m currently working on [FilmLit](https://github.com/David1522/FilmLit)
 

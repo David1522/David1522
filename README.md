@@ -1,4 +1,4 @@
-<h1 align="left">Hi ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif) My name is Juan David Wilches</h1>
+<h1 align="left">Hi 👋 My name is Juan David Wilches</h1>
 
 ==========================================================================================================================================
 ⭐ Aspiring Software Developer | Knoledge Sponge | Open Minded ⭐
